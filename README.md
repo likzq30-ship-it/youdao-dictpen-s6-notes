@@ -1,4 +1,4 @@
-# Youdao Dictionary Pen S6 — 固件分析笔记
+# Youdao Dictionary Pen S6 — 固件分析日志
 
 本项目是对**有道词典笔 S6**（YDPS6-1）固件的逆向分析研究归档。
 目标是记录 ADB 认证机制、OTA 安全机制、WebSocket 控制端口及系统调用链，

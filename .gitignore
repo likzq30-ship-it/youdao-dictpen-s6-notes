@@ -1,0 +1,41 @@
+# Firmware images
+*.img
+*.bin
+*.ext4
+*.squashfs
+*.ubi
+*.ubifs
+*.dump
+
+# Network captures
+*.pcap
+*.pcapng
+
+# Extracted filesystems
+extracted/
+rootfs/
+firmware/
+mount/
+
+# Modified/patch artifacts
+patched/
+modified/
+*_modified*
+*_patched*
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+*~
+
+# Dependencies
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
